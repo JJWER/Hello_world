@@ -33,6 +33,8 @@
             this.textBoxC = new System.Windows.Forms.TextBox();
             this.textBoxF = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.bottonConvert2 = new System.Windows.Forms.Button();
+            this.buttonClear = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // buttonConvert
@@ -79,11 +81,33 @@
             this.label2.TabIndex = 5;
             this.label2.Text = "F";
             // 
+            // bottonConvert2
+            // 
+            this.bottonConvert2.Location = new System.Drawing.Point(257, 142);
+            this.bottonConvert2.Name = "bottonConvert2";
+            this.bottonConvert2.Size = new System.Drawing.Size(75, 23);
+            this.bottonConvert2.TabIndex = 6;
+            this.bottonConvert2.Text = "Convert";
+            this.bottonConvert2.UseVisualStyleBackColor = true;
+            this.bottonConvert2.Click += new System.EventHandler(this.bottonConvert_Click);
+            // 
+            // buttonClear
+            // 
+            this.buttonClear.Location = new System.Drawing.Point(351, 99);
+            this.buttonClear.Name = "buttonClear";
+            this.buttonClear.Size = new System.Drawing.Size(73, 66);
+            this.buttonClear.TabIndex = 7;
+            this.buttonClear.Text = "Clear";
+            this.buttonClear.UseVisualStyleBackColor = true;
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(476, 271);
+            this.Controls.Add(this.buttonClear);
+            this.Controls.Add(this.bottonConvert2);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBoxF);
             this.Controls.Add(this.textBoxC);
@@ -103,5 +127,7 @@
         private TextBox textBoxC;
         private TextBox textBoxF;
         private Label label2;
+        private Button bottonConvert2;
+        private Button buttonClear;
     }
 }

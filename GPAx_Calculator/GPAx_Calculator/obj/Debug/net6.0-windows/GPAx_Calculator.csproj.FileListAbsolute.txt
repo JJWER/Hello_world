@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAx_Calculator\GPAx_Calculator\obj\Debug\net6.0-windows\GPAx_Calculator.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAx_Calculator\GPAx_Calculator\obj\Debug\net6.0-windows\GPAx_Calculator.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAx_Calculator\GPAx_Calculator\obj\Debug\net6.0-windows\GPAx_Calculator.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAx_Calculator\GPAx_Calculator\obj\Debug\net6.0-windows\GPAx_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAx_Calculator\GPAx_Calculator\obj\Debug\net6.0-windows\GPAx_Calculator.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAx_Calculator\GPAx_Calculator\obj\Debug\net6.0-windows\GPAx_Calculator.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAx_Calculator\GPAx_Calculator\obj\Debug\net6.0-windows\GPAx_Calculator.csproj.CoreCompileInputs.cache

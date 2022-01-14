@@ -1,0 +1,17 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\bin\Debug\net6.0-windows\GPAxCalculator.exe
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\bin\Debug\net6.0-windows\GPAxCalculator.deps.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\bin\Debug\net6.0-windows\GPAxCalculator.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\bin\Debug\net6.0-windows\GPAxCalculator.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\bin\Debug\net6.0-windows\ref\GPAxCalculator.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\bin\Debug\net6.0-windows\GPAxCalculator.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\ref\GPAxCalculator.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.genruntimeconfig.cache

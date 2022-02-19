@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kUYkCwlAYSMI+6sIiveT3gGoYK6zqvgQ49JBhmOR2Q+Wndb9gwaKsmYQ6I/ctsMY+Iu76kTx3Ajf5wjGgT+thA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Documents\\GitHub\\Hello_world\\Income_and_Expenses_App\\Income_and_Expenses_App\\Income_and_Expenses_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

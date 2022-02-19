@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manage App\Student Manage App\obj\Debug\net6.0-windows\Student Manage App.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manage App\Student Manage App\obj\Debug\net6.0-windows\Student_Manage_App.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manage App\Student Manage App\obj\Debug\net6.0-windows\Student Manage App.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manage App\Student Manage App\obj\Debug\net6.0-windows\Student Manage App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manage App\Student Manage App\obj\Debug\net6.0-windows\Student Manage App.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manage App\Student Manage App\obj\Debug\net6.0-windows\Student Manage App.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manage App\Student Manage App\obj\Debug\net6.0-windows\Student Manage App.csproj.CoreCompileInputs.cache

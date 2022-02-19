@@ -1,0 +1,18 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\bin\Debug\net6.0-windows\Pokemons battlesss.exe
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\bin\Debug\net6.0-windows\Pokemons battlesss.deps.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\bin\Debug\net6.0-windows\Pokemons battlesss.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\bin\Debug\net6.0-windows\Pokemons battlesss.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\bin\Debug\net6.0-windows\ref\Pokemons battlesss.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\bin\Debug\net6.0-windows\Pokemons battlesss.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\obj\Debug\net6.0-windows\Pokemons battlesss.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\obj\Debug\net6.0-windows\Pokemons_battlesss.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\obj\Debug\net6.0-windows\Pokemons battlesss.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\obj\Debug\net6.0-windows\Pokemons battlesss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\obj\Debug\net6.0-windows\Pokemons battlesss.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\obj\Debug\net6.0-windows\Pokemons battlesss.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\obj\Debug\net6.0-windows\Pokemons battlesss.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\obj\Debug\net6.0-windows\Pokemons battlesss.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\obj\Debug\net6.0-windows\ref\Pokemons battlesss.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\obj\Debug\net6.0-windows\Pokemons battlesss.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\obj\Debug\net6.0-windows\Pokemons battlesss.genruntimeconfig.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemons battlesss\Pokemons battlesss\obj\Debug\net6.0-windows\Pokemons_battlesss.Properties.Resources.resources

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f427c705-26f2-46b8-9094-cda492cdac6a": {
+      "ProjectGuid": "f427c705-26f2-46b8-9094-cda492cdac6a",
+      "DisplayName": "Income and Expenses",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

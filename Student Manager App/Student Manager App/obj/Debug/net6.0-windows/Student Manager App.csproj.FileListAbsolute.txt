@@ -1,0 +1,19 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\bin\Debug\net6.0-windows\Student Manager App.exe
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\bin\Debug\net6.0-windows\Student Manager App.deps.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\bin\Debug\net6.0-windows\Student Manager App.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\bin\Debug\net6.0-windows\Student Manager App.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\bin\Debug\net6.0-windows\ref\Student Manager App.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\bin\Debug\net6.0-windows\Student Manager App.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\obj\Debug\net6.0-windows\Student_Manager_App.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\obj\Debug\net6.0-windows\Student Manager App.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\obj\Debug\net6.0-windows\Student Manager App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\obj\Debug\net6.0-windows\Student Manager App.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\obj\Debug\net6.0-windows\Student Manager App.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\obj\Debug\net6.0-windows\Student Manager App.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\obj\Debug\net6.0-windows\Student Manager App.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\obj\Debug\net6.0-windows\ref\Student Manager App.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\obj\Debug\net6.0-windows\Student Manager App.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\obj\Debug\net6.0-windows\Student Manager App.genruntimeconfig.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\obj\Debug\net6.0-windows\Student Manager App.csproj.CopyComplete
+C:\Users\ASUS\Documents\GitHub\Hello_world\Student Manager App\Student Manager App\obj\Debug\net6.0-windows\Student Manager App.csproj.AssemblyReference.cache

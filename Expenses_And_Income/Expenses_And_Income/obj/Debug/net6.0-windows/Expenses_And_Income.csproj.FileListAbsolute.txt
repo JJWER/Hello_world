@@ -1,0 +1,16 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\Expenses_And_Income\Expenses_And_Income\bin\Debug\net6.0-windows\Expenses_And_Income.exe
+C:\Users\ASUS\Documents\GitHub\Hello_world\Expenses_And_Income\Expenses_And_Income\bin\Debug\net6.0-windows\Expenses_And_Income.deps.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\Expenses_And_Income\Expenses_And_Income\bin\Debug\net6.0-windows\Expenses_And_Income.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\Expenses_And_Income\Expenses_And_Income\bin\Debug\net6.0-windows\Expenses_And_Income.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Expenses_And_Income\Expenses_And_Income\bin\Debug\net6.0-windows\ref\Expenses_And_Income.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Expenses_And_Income\Expenses_And_Income\bin\Debug\net6.0-windows\Expenses_And_Income.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Expenses_And_Income\Expenses_And_Income\obj\Debug\net6.0-windows\Expenses_And_Income.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Hello_world\Expenses_And_Income\Expenses_And_Income\obj\Debug\net6.0-windows\Expenses_And_Income.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Expenses_And_Income\Expenses_And_Income\obj\Debug\net6.0-windows\Expenses_And_Income.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Hello_world\Expenses_And_Income\Expenses_And_Income\obj\Debug\net6.0-windows\Expenses_And_Income.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Expenses_And_Income\Expenses_And_Income\obj\Debug\net6.0-windows\Expenses_And_Income.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\Hello_world\Expenses_And_Income\Expenses_And_Income\obj\Debug\net6.0-windows\Expenses_And_Income.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Expenses_And_Income\Expenses_And_Income\obj\Debug\net6.0-windows\Expenses_And_Income.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Expenses_And_Income\Expenses_And_Income\obj\Debug\net6.0-windows\ref\Expenses_And_Income.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Expenses_And_Income\Expenses_And_Income\obj\Debug\net6.0-windows\Expenses_And_Income.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Expenses_And_Income\Expenses_And_Income\obj\Debug\net6.0-windows\Expenses_And_Income.genruntimeconfig.cache

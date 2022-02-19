@@ -1,0 +1,18 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\bin\Debug\net6.0-windows\Pokemonnnn battleee.exe
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\bin\Debug\net6.0-windows\Pokemonnnn battleee.deps.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\bin\Debug\net6.0-windows\Pokemonnnn battleee.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\bin\Debug\net6.0-windows\Pokemonnnn battleee.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\bin\Debug\net6.0-windows\ref\Pokemonnnn battleee.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\bin\Debug\net6.0-windows\Pokemonnnn battleee.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\obj\Debug\net6.0-windows\Pokemonnnn battleee.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\obj\Debug\net6.0-windows\Pokemonnnn_battleee.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\obj\Debug\net6.0-windows\Pokemonnnn_battleee.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\obj\Debug\net6.0-windows\Pokemonnnn battleee.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\obj\Debug\net6.0-windows\Pokemonnnn battleee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\obj\Debug\net6.0-windows\Pokemonnnn battleee.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\obj\Debug\net6.0-windows\Pokemonnnn battleee.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\obj\Debug\net6.0-windows\Pokemonnnn battleee.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\obj\Debug\net6.0-windows\Pokemonnnn battleee.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\obj\Debug\net6.0-windows\ref\Pokemonnnn battleee.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\obj\Debug\net6.0-windows\Pokemonnnn battleee.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Pokemonnnn battleee\Pokemonnnn battleee\obj\Debug\net6.0-windows\Pokemonnnn battleee.genruntimeconfig.cache

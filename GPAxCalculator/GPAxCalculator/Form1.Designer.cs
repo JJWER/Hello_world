@@ -37,11 +37,11 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.textBoxMinName = new System.Windows.Forms.TextBox();
             this.textBoxMaxName = new System.Windows.Forms.TextBox();
+            this.button2 = new System.Windows.Forms.Button();
             this.textBoxMinGPA = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.textBoxMaxGPA = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.button2 = new System.Windows.Forms.Button();
             this.textBoxNameInput = new System.Windows.Forms.TextBox();
             this.textBoxAllData = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
@@ -52,7 +52,7 @@
             this.button1.Font = new System.Drawing.Font("Leelawadee UI", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button1.Location = new System.Drawing.Point(871, 70);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(203, 74);
+            this.button1.Size = new System.Drawing.Size(203, 75);
             this.button1.TabIndex = 2;
             this.button1.Text = "ADD";
             this.button1.UseVisualStyleBackColor = true;
@@ -109,6 +109,7 @@
             // 
             this.groupBox1.Controls.Add(this.textBoxMinName);
             this.groupBox1.Controls.Add(this.textBoxMaxName);
+            this.groupBox1.Controls.Add(this.button2);
             this.groupBox1.Controls.Add(this.textBoxMinGPA);
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.textBoxMaxGPA);
@@ -140,6 +141,17 @@
             this.textBoxMaxName.Size = new System.Drawing.Size(323, 74);
             this.textBoxMaxName.TabIndex = 10;
             this.textBoxMaxName.TabStop = false;
+            // 
+            // button2
+            // 
+            this.button2.Font = new System.Drawing.Font("Leelawadee UI", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.button2.Location = new System.Drawing.Point(841, 220);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(203, 74);
+            this.button2.TabIndex = 7;
+            this.button2.Text = "CLEAR";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // textBoxMinGPA
             // 
@@ -181,17 +193,6 @@
             this.label4.TabIndex = 6;
             this.label4.Text = "MAX GPAx";
             // 
-            // button2
-            // 
-            this.button2.Font = new System.Drawing.Font("Leelawadee UI", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button2.Location = new System.Drawing.Point(871, 414);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(203, 74);
-            this.button2.TabIndex = 7;
-            this.button2.Text = "CLEAR";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
             // textBoxNameInput
             // 
             this.textBoxNameInput.Font = new System.Drawing.Font("Leelawadee UI", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
@@ -217,7 +218,6 @@
             this.ClientSize = new System.Drawing.Size(1147, 898);
             this.Controls.Add(this.textBoxAllData);
             this.Controls.Add(this.textBoxNameInput);
-            this.Controls.Add(this.button2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.textBoxGPA_input);
             this.Controls.Add(this.label3);

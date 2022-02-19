@@ -1,0 +1,16 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\Income_And_Expenses_agen\Income_And_Expenses_agen\bin\Debug\net6.0-windows\Income_And_Expenses_agen.exe
+C:\Users\ASUS\Documents\GitHub\Hello_world\Income_And_Expenses_agen\Income_And_Expenses_agen\bin\Debug\net6.0-windows\Income_And_Expenses_agen.deps.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\Income_And_Expenses_agen\Income_And_Expenses_agen\bin\Debug\net6.0-windows\Income_And_Expenses_agen.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\Income_And_Expenses_agen\Income_And_Expenses_agen\bin\Debug\net6.0-windows\Income_And_Expenses_agen.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Income_And_Expenses_agen\Income_And_Expenses_agen\bin\Debug\net6.0-windows\ref\Income_And_Expenses_agen.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Income_And_Expenses_agen\Income_And_Expenses_agen\bin\Debug\net6.0-windows\Income_And_Expenses_agen.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Income_And_Expenses_agen\Income_And_Expenses_agen\obj\Debug\net6.0-windows\Income_And_Expenses_agen.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Hello_world\Income_And_Expenses_agen\Income_And_Expenses_agen\obj\Debug\net6.0-windows\Income_And_Expenses_agen.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Income_And_Expenses_agen\Income_And_Expenses_agen\obj\Debug\net6.0-windows\Income_And_Expenses_agen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Hello_world\Income_And_Expenses_agen\Income_And_Expenses_agen\obj\Debug\net6.0-windows\Income_And_Expenses_agen.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Income_And_Expenses_agen\Income_And_Expenses_agen\obj\Debug\net6.0-windows\Income_And_Expenses_agen.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\Hello_world\Income_And_Expenses_agen\Income_And_Expenses_agen\obj\Debug\net6.0-windows\Income_And_Expenses_agen.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Income_And_Expenses_agen\Income_And_Expenses_agen\obj\Debug\net6.0-windows\Income_And_Expenses_agen.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Income_And_Expenses_agen\Income_And_Expenses_agen\obj\Debug\net6.0-windows\ref\Income_And_Expenses_agen.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Income_And_Expenses_agen\Income_And_Expenses_agen\obj\Debug\net6.0-windows\Income_And_Expenses_agen.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Income_And_Expenses_agen\Income_And_Expenses_agen\obj\Debug\net6.0-windows\Income_And_Expenses_agen.genruntimeconfig.cache

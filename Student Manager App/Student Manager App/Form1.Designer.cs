@@ -34,6 +34,10 @@
             this.openToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.saveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.ColumnID = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumnName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumnMajor = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ColumnGPAx = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.textBox3 = new System.Windows.Forms.TextBox();
@@ -101,12 +105,45 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(516, 52);
+            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.ColumnID,
+            this.ColumnName,
+            this.ColumnMajor,
+            this.ColumnGPAx});
+            this.dataGridView1.Location = new System.Drawing.Point(535, 52);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 29;
-            this.dataGridView1.Size = new System.Drawing.Size(653, 495);
+            this.dataGridView1.Size = new System.Drawing.Size(554, 495);
             this.dataGridView1.TabIndex = 2;
+            // 
+            // ColumnID
+            // 
+            this.ColumnID.HeaderText = "ID";
+            this.ColumnID.MinimumWidth = 6;
+            this.ColumnID.Name = "ColumnID";
+            this.ColumnID.Width = 125;
+            // 
+            // ColumnName
+            // 
+            this.ColumnName.HeaderText = "Name";
+            this.ColumnName.MinimumWidth = 6;
+            this.ColumnName.Name = "ColumnName";
+            this.ColumnName.Width = 125;
+            // 
+            // ColumnMajor
+            // 
+            this.ColumnMajor.HeaderText = "Major";
+            this.ColumnMajor.MinimumWidth = 6;
+            this.ColumnMajor.Name = "ColumnMajor";
+            this.ColumnMajor.Width = 125;
+            // 
+            // ColumnGPAx
+            // 
+            this.ColumnGPAx.HeaderText = "GPAx";
+            this.ColumnGPAx.MinimumWidth = 6;
+            this.ColumnGPAx.Name = "ColumnGPAx";
+            this.ColumnGPAx.Width = 125;
             // 
             // textBox2
             // 
@@ -123,6 +160,7 @@
             this.button1.TabIndex = 4;
             this.button1.Text = "Save";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox3
             // 
@@ -363,5 +401,9 @@
         private TextBox textBoxMinName;
         private Label label9;
         private BindingSource form1BindingSource;
+        private DataGridViewTextBoxColumn ColumnID;
+        private DataGridViewTextBoxColumn ColumnName;
+        private DataGridViewTextBoxColumn ColumnMajor;
+        private DataGridViewTextBoxColumn ColumnGPAx;
     }
 }

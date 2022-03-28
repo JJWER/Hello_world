@@ -1,0 +1,17 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\bin\Debug\net6.0-windows\WindowForm_Abstract_Interface.exe
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\bin\Debug\net6.0-windows\WindowForm_Abstract_Interface.deps.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\bin\Debug\net6.0-windows\WindowForm_Abstract_Interface.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\bin\Debug\net6.0-windows\WindowForm_Abstract_Interface.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\bin\Debug\net6.0-windows\ref\WindowForm_Abstract_Interface.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\bin\Debug\net6.0-windows\WindowForm_Abstract_Interface.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\obj\Debug\net6.0-windows\WindowForm_Abstract_Interface.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\obj\Debug\net6.0-windows\WindowForm_Abstract_Interface.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\obj\Debug\net6.0-windows\WindowForm_Abstract_Interface.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\obj\Debug\net6.0-windows\WindowForm_Abstract_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\obj\Debug\net6.0-windows\WindowForm_Abstract_Interface.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\obj\Debug\net6.0-windows\WindowForm_Abstract_Interface.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\obj\Debug\net6.0-windows\WindowForm_Abstract_Interface.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\obj\Debug\net6.0-windows\WindowForm_Abstract_Interface.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\obj\Debug\net6.0-windows\ref\WindowForm_Abstract_Interface.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\obj\Debug\net6.0-windows\WindowForm_Abstract_Interface.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\WindowForm_Abstract_Interface\WindowForm_Abstract_Interface\obj\Debug\net6.0-windows\WindowForm_Abstract_Interface.genruntimeconfig.cache

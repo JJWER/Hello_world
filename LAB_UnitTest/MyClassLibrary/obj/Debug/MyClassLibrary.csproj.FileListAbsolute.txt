@@ -1,0 +1,2 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache

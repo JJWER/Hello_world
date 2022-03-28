@@ -1,0 +1,20 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\bin\Debug\net6.0-windows\MyUI.exe
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\bin\Debug\net6.0-windows\MyUI.deps.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\bin\Debug\net6.0-windows\MyUI.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\bin\Debug\net6.0-windows\MyUI.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\bin\Debug\net6.0-windows\ref\MyUI.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\bin\Debug\net6.0-windows\MyUI.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\obj\Debug\net6.0-windows\MyUI.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\obj\Debug\net6.0-windows\MyUI.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\obj\Debug\net6.0-windows\MyUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\obj\Debug\net6.0-windows\MyUI.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\obj\Debug\net6.0-windows\MyUI.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\obj\Debug\net6.0-windows\MyUI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\obj\Debug\net6.0-windows\MyUI.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\obj\Debug\net6.0-windows\ref\MyUI.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\obj\Debug\net6.0-windows\MyUI.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\obj\Debug\net6.0-windows\MyUI.genruntimeconfig.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\obj\Debug\net6.0-windows\MyUI.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\bin\Debug\net6.0-windows\My library.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\bin\Debug\net6.0-windows\My library.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\MyUI\MyUI\obj\Debug\net6.0-windows\MyUI.csproj.CopyComplete

@@ -1,0 +1,19 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\obj\Debug\Unit_Test_Project_Lab.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\obj\Debug\Unit_Test_Project_Lab.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\bin\Debug\Unit_Test_Project_Lab.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\bin\Debug\Unit_Test_Project_Lab.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\bin\Debug\My library.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\bin\Debug\MyClassLibrary.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\bin\Debug\MyClassLibrary.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\bin\Debug\My library.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\obj\Debug\Unit_Test_Project_Lab.csproj.CopyComplete
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\obj\Debug\Unit_Test_Project_Lab.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\Unit_Test_Project_Lab\obj\Debug\Unit_Test_Project_Lab.pdb

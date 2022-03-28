@@ -1,0 +1,17 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\bin\Debug\LAB_UnitTest.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\bin\Debug\LAB_UnitTest.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\bin\Debug\My library.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\bin\Debug\My library.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\obj\Debug\LAB_UnitTest.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\obj\Debug\LAB_UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\obj\Debug\LAB_UnitTest.csproj.CopyComplete
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\obj\Debug\LAB_UnitTest.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\LAB_UnitTest\LAB_UnitTest\obj\Debug\LAB_UnitTest.pdb

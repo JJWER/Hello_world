@@ -5,7 +5,7 @@ namespace Student_Manager_App
 {    
     public partial class Form1 : Form
     {
-        
+     
         GPAx oGPAcal = new GPAx();
         public Form1()
         {
@@ -19,10 +19,12 @@ namespace Student_Manager_App
             if (openFileDialog.ShowDialog() == DialogResult.OK) {
                 string[] readAlllLine = File.ReadAllLines(openFileDialog.FileName);
                 string readAllText = File.ReadAllText(openFileDialog.FileName);
-                //this.textBox1.Text = readAllText;
-                //this.dataGridView1.Rows.Add()
+                //this.textBox2.Text = readAllText;
+                //this.dataGridView1.Rows.Add(textBox2);
+                
 
-                for (int i = 0; i < readAlllLine.Length; i++) {
+                for (int i = 0; i < readAlllLine.Length; i++)
+                {
                     string studentRAW = readAlllLine[i];
                     string[] studentSplited = studentRAW.Split(',');
                     Student student = new Student(studentSplited[0], studentSplited[1], studentSplited[2]);
@@ -94,6 +96,30 @@ namespace Student_Manager_App
             dataGridView1.Text = oGPAcal.getAllData();
         }
 
-        
+        private void button1_Click(object sender, EventArgs e)
+        {
+            dataGridView1.Rows[0].Cells[0].Value = textBox2.Text;
+            dataGridView1.Rows[0].Cells[1].Value = textBox3.Text;
+            dataGridView1.Rows[0].Cells[3].Value = textBox4.Text;
+            dataGridView1.Rows[0].Cells[2].Value = comboBox1.Text;
+
+            string input = this.textBox4.Text;
+            string name = this.textBox3.Text;
+
+            double dInput = Convert.ToDouble(input);
+            oGPAcal.addGPA(dInput, name);
+
+            double gpax = oGPAcal.getGPAx();
+            textBoxGPA.Text = gpax.ToString();
+
+            textBoxMAX.Text = oGPAcal.getMax().ToString();
+            textBoxMaxName.Text = oGPAcal.getMaxName().ToString();
+
+            textBoxMIN.Text = oGPAcal.getMin().ToString();
+            textBoxMinName.Text = oGPAcal.getMinname().ToString();
+
+            textBox4.Text = "";
+            textBox3.Text = string.Empty;
+        }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\Test_Project\Test_Project\bin\Debug\net6.0-windows\Test_Project.exe
+C:\Users\ASUS\Documents\GitHub\Hello_world\Test_Project\Test_Project\bin\Debug\net6.0-windows\Test_Project.deps.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\Test_Project\Test_Project\bin\Debug\net6.0-windows\Test_Project.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\Hello_world\Test_Project\Test_Project\bin\Debug\net6.0-windows\Test_Project.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Test_Project\Test_Project\bin\Debug\net6.0-windows\ref\Test_Project.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Test_Project\Test_Project\bin\Debug\net6.0-windows\Test_Project.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Test_Project\Test_Project\obj\Debug\net6.0-windows\Test_Project.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Hello_world\Test_Project\Test_Project\obj\Debug\net6.0-windows\Test_Project.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Test_Project\Test_Project\obj\Debug\net6.0-windows\Test_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Hello_world\Test_Project\Test_Project\obj\Debug\net6.0-windows\Test_Project.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Test_Project\Test_Project\obj\Debug\net6.0-windows\Test_Project.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\Hello_world\Test_Project\Test_Project\obj\Debug\net6.0-windows\Test_Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Test_Project\Test_Project\obj\Debug\net6.0-windows\Test_Project.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Test_Project\Test_Project\obj\Debug\net6.0-windows\ref\Test_Project.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Test_Project\Test_Project\obj\Debug\net6.0-windows\Test_Project.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Test_Project\Test_Project\obj\Debug\net6.0-windows\Test_Project.genruntimeconfig.cache

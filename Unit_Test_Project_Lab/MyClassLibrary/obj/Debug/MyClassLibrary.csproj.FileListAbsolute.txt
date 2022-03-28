@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\ASUS\Documents\GitHub\Hello_world\Unit_Test_Project_Lab\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
